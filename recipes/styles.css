@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Chakra Petch", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+}
+body {
+  text-align: center;
+}
+h1 {
+  background-color: #ffd700;
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+h2,
+h3 {
+  margin: 10px;
+  text-transform: uppercase;
+}
